@@ -19,7 +19,7 @@ function App() {
       <h1>Diseño de Sitios Web</h1>
       <div className="card">
         <h6>Enlace Proyecto</h6>
-        <a href="index.html">Click aquí para ir al proyecto</a>
+        <a href="inicio.html">Click aquí para ir al proyecto</a>
       </div>
       <p className="read-the-docs">
         Mauricio Gómez Flórez
